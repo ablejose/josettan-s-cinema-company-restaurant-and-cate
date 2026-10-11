@@ -1,0 +1,44 @@
+{
+  "slug": "josettan-s-cinema-company-restaurant-and-cate",
+  "name": "Josettan's CINEMA COMPANY RESTAURANT & CATERERS",
+  "shortName": "Josettan's CINEMA COMPANY RESTAURANT",
+  "descriptor": "Catering Services",
+  "address": "Kodungallur - Shornur Rd, near Peringavu, Viyyur, Peringavu, Thrissur, Keralam 680022",
+  "area": "Viyyur",
+  "city": "Thrissur",
+  "district": "Thrissur",
+  "region": "Kerala",
+  "postalCode": "680022",
+  "geo": {
+    "lat": 10.5431738,
+    "lng": 76.21310129999999
+  },
+  "mapsLink": "https://maps.google.com/?cid=4452305033762519317",
+  "phone": "+91 90614 38882",
+  "whatsapp": "919061438882",
+  "hours": "Open 7 am – 12 am · all days",
+  "opens": "07:00",
+  "closes": "00:00",
+  "rating": 4.5,
+  "reviewCount": 7116,
+  "reviews": [
+    {
+      "name": "Rajesh",
+      "rating": 4,
+      "quote": "The place has been done to give the cinema vibe. Tried Biriyani, Squid Roast and Roti. They didn't have chapati, probably because of the time. Biriyani was flavourful. But the rice was a bit overcooked. Squid roast was superb. Oily, but what's taste without a bit of fat ?😀. Very crowded (it was lunch time) Parking is in the front."
+    },
+    {
+      "name": "athul",
+      "rating": 4,
+      "quote": "The order taking staff should be more attentive to what customers are asking for. We specifically requested light dishes and smaller portions, but the food that arrived was much more than we needed. It felt like our request wasn't taken into account, and we ended up paying for more food than we wanted."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://josettan-s-cinema-company-restauran.vercel.app"
+}
